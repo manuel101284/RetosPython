@@ -10,7 +10,7 @@ print("Ingrese el texto que desee para contar palabras")
 text_01 = input()
 text_02 = text_01.lower()
 
-text_02 = "".join(text_01.split(","))
+text_02 = "".join(text_02.split(","))
 text_02 = "".join(text_02.split("."))
 text_02 = "".join(text_02.split(":"))
 text_02 = "".join(text_02.split(";"))
